@@ -1,0 +1,17 @@
+C:\Users\malet\source\repos\CryptoGraphy\bin\Debug\netcoreapp3.1\CryptoGraphy.exe
+C:\Users\malet\source\repos\CryptoGraphy\bin\Debug\netcoreapp3.1\CryptoGraphy.deps.json
+C:\Users\malet\source\repos\CryptoGraphy\bin\Debug\netcoreapp3.1\CryptoGraphy.runtimeconfig.json
+C:\Users\malet\source\repos\CryptoGraphy\bin\Debug\netcoreapp3.1\CryptoGraphy.runtimeconfig.dev.json
+C:\Users\malet\source\repos\CryptoGraphy\bin\Debug\netcoreapp3.1\CryptoGraphy.dll
+C:\Users\malet\source\repos\CryptoGraphy\bin\Debug\netcoreapp3.1\CryptoGraphy.pdb
+C:\Users\malet\source\repos\CryptoGraphy\obj\Debug\netcoreapp3.1\CryptoGraphy.csprojAssemblyReference.cache
+C:\Users\malet\source\repos\CryptoGraphy\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\malet\source\repos\CryptoGraphy\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\malet\source\repos\CryptoGraphy\obj\Debug\netcoreapp3.1\CryptoGraphy_MarkupCompile.cache
+C:\Users\malet\source\repos\CryptoGraphy\obj\Debug\netcoreapp3.1\CryptoGraphy_MarkupCompile.lref
+C:\Users\malet\source\repos\CryptoGraphy\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\malet\source\repos\CryptoGraphy\obj\Debug\netcoreapp3.1\CryptoGraphy.g.resources
+C:\Users\malet\source\repos\CryptoGraphy\obj\Debug\netcoreapp3.1\CryptoGraphy.AssemblyInfoInputs.cache
+C:\Users\malet\source\repos\CryptoGraphy\obj\Debug\netcoreapp3.1\CryptoGraphy.AssemblyInfo.cs
+C:\Users\malet\source\repos\CryptoGraphy\obj\Debug\netcoreapp3.1\CryptoGraphy.dll
+C:\Users\malet\source\repos\CryptoGraphy\obj\Debug\netcoreapp3.1\CryptoGraphy.pdb
